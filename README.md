@@ -14,13 +14,15 @@ Role: directed AI-assisted development. Status: working.
 
 | | |
 |---|---|
-| ![Learn: courses and learning paths](ai-engineer-atlas/02-learn.png) | ![Topics: themes by number of talks](ai-engineer-atlas/03-topics.png) |
+| ![Learn: courses and learning paths](ai-engineer-atlas/02-learn.png) | ![Map: every talk as a dot, grouped by theme](ai-engineer-atlas/03-talk-map.png) |
 
 ![All talks, with filters and scores](ai-engineer-atlas/04-talks.png)
 
 ## CiscoReadyReader
 
 A local tool that turns a Cisco Ready "Customer Detail Report" export into dashboards for coverage, lifecycle risk, renewals and changes between reports. It runs on one machine and makes no outbound calls.
+
+It also has an optional chat feature, off by default, that can use either the Cisco Circuit API or a local model through Ollama. The chat is not shown in these screenshots.
 
 Role: directed AI-assisted development. Status: working. The customer shown, Lakeshore Community College District, is a synthetic fixture: every organisation, address and contract in it is made up.
 
