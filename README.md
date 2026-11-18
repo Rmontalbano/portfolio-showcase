@@ -76,6 +76,6 @@ A page that ranks an SE's email and chat threads by how long people have been wa
 
 Role: directed AI-assisted development of the video. The names in it are invented.
 
-[Watch the video (MP4, 19 MB)](myagent-dashboard/myagent-dashboard-highlight-1080p.mp4)
+[Watch the video on Vidcast](https://app.vidcast.io/share/efef93b3-82e0-4686-b53e-76310ffe1943?playerMode=vidcast), or [download it (MP4, 19 MB)](myagent-dashboard/myagent-dashboard-highlight-1080p.mp4).
 
 ![The dashboard's Today tab](myagent-dashboard/thumbnail.png)
