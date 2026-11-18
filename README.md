@@ -1,6 +1,6 @@
 # Remo Montalbano: AI project showcase
 
-Screenshots and a short video of four tools I built with AI coding agents. I set the goals, chose the priorities, reviewed the results and directed each round of changes; agents wrote the code. The source repositories are private, so this repo shows the interfaces only.
+Screenshots and a short video of five tools I built with AI coding agents. I set the goals, chose the priorities, reviewed the results and directed each round of changes; agents wrote the code. Most of the source repositories are private, so this repo shows the interfaces only.
 
 These are personal projects, not official Cisco products. Every screenshot shows the real interface running locally. Except for the AI Engineer Atlas, which shows public YouTube talks, all data on screen is invented sample data.
 
@@ -53,6 +53,22 @@ Role: directed AI-assisted development. Status: working. The accounts and people
 | ![Accounts](personal-crm/02-accounts.png) | ![A contact's detail panel](personal-crm/03-contact-detail.png) |
 
 ![Reviewing a suggestion from the assistant](personal-crm/04-suggestions.png)
+
+## DefenseClaw for Windows
+
+A native Windows desktop companion for Cisco DefenseClaw, the governance layer for AI coding agents. It shows the local gateway's health, alerts, audit trail, policies and discovered AI components for agents such as Claude Code and Codex, and lets an operator review and run DefenseClaw commands from a window instead of a terminal. It is a community project, not part of the Cisco product, and its source is public: [Rmontalbano/defenseclaw_win](https://github.com/Rmontalbano/defenseclaw_win).
+
+Role: directed AI-assisted development. Status: working. Everything shown is sample data: for these screenshots the app ran against a sample data folder and a stand-in runtime that replays made-up events, not a real DefenseClaw install.
+
+**Click-through demo:** download [`defenseclaw-windows/demo.html`](defenseclaw-windows/demo.html) and open it in a browser. The app is native Windows, not a web page, so this demo is built from screenshots of five real screens (Overview, Alerts, Audit, Policies, AI Discovery). The sidebar items for those screens work; other controls do not.
+
+![Overview: gateway status, what needs attention, services and enforcement](defenseclaw-windows/01-hero.png)
+
+| | |
+|---|---|
+| ![Alerts by severity](defenseclaw-windows/02-alerts.png) | ![Audit trail of the last 24 hours](defenseclaw-windows/03-audit.png) |
+
+![AI Discovery: coverage and detected components](defenseclaw-windows/04-ai-discovery.png)
 
 ## My Agent Dashboard
 
