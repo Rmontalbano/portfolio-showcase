@@ -44,6 +44,8 @@ A private, local CRM that ships as one HTML file. It keeps accounts, contacts, s
 
 Role: directed AI-assisted development. Status: working. The accounts and people shown are the app's built-in sample data.
 
+**Click-through demo:** download [`personal-crm/demo.html`](personal-crm/demo.html) and open it in a browser. It is a static snapshot of five real pages (Home, Accounts, Contacts, Campaigns, Suggestions). The sidebar links between those pages work; other controls do not.
+
 ![Home](personal-crm/01-hero.png)
 
 | | |
