@@ -10,6 +10,8 @@ A research guide to the talks on the AI Engineer YouTube channel. Each talk is a
 
 Role: directed AI-assisted development. Status: working.
 
+**Click-through demo:** download [`ai-engineer-atlas/demo.html`](ai-engineer-atlas/demo.html) and open it in a browser. It is a static snapshot of three real pages (Start, Topics, Map). The links between those pages work; other controls do not.
+
 ![Start page with this week's top talks](ai-engineer-atlas/01-hero.png)
 
 | | |
@@ -25,6 +27,8 @@ A local tool that turns a Cisco Ready "Customer Detail Report" export into dashb
 It also has an optional chat feature, off by default, that can use either the Cisco Circuit API or a local model through Ollama. The chat is not shown in these screenshots.
 
 Role: directed AI-assisted development. Status: working. The customer shown, Lakeshore Community College District, is a synthetic fixture: every organisation, address and contract in it is made up.
+
+**Click-through demo:** download [`cisco-ready-reader/demo.html`](cisco-ready-reader/demo.html) and open it in a browser. It is a static snapshot of three real pages (Overview, Org explorer, Lifecycle and risk). The sidebar links between those pages work; other controls do not.
 
 ![Overview dashboard](cisco-ready-reader/01-hero.png)
 
