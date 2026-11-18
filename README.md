@@ -1,6 +1,6 @@
 # Remo Montalbano: AI project showcase
 
-Screenshots and a short video of five tools I built with AI coding agents. I set the goals, chose the priorities, reviewed the results and directed each round of changes; agents wrote the code. Most of the source repositories are private, so this repo shows the interfaces only.
+Screenshots and a short video of five tools and one concept game I built with AI coding agents. I set the goals, chose the priorities, reviewed the results and directed each round of changes; agents wrote the code. Most of the source repositories are private, so this repo shows the interfaces only.
 
 These are personal projects, not official Cisco products. Every screenshot shows the real interface running locally. Except for the AI Engineer Atlas, which shows public YouTube talks, all data on screen is invented sample data.
 
@@ -79,3 +79,19 @@ Role: directed AI-assisted development of the video. The names in it are invente
 [Watch the video on Vidcast](https://app.vidcast.io/share/efef93b3-82e0-4686-b53e-76310ffe1943?playerMode=vidcast), or [download it (MP4, 19 MB)](myagent-dashboard/myagent-dashboard-highlight-1080p.mp4).
 
 ![The dashboard's Today tab](myagent-dashboard/thumbnail.png)
+
+## Shadow Agents
+
+A concept for a top-down pixel game that teaches how to secure AI agents in an office. The player is the security admin and works through five levels: find the agents on the laptops, look inside them, route their traffic through one gateway, check who is asking, and reach the agents the network never sees.
+
+Role: directed AI-assisted development. Status: concept. This is a personal concept, not an official Cisco product or product documentation. The office, its people, its agents and every number on screen are made up, and the console views are game mock-ups, not product screens.
+
+**Click-through demo:** download [`shadow-agents/demo.html`](shadow-agents/demo.html) and open it in a browser. It is four screenshots in one file, not the game: the title card and levels 1, 3 and 5. The outlined items (three level tiles, Start, and the level tabs) move between those screens; nothing else responds.
+
+![Title card with the five levels](shadow-agents/01-hero.png)
+
+| | |
+|---|---|
+| ![Level 1: the office map with the agents found on its laptops](shadow-agents/02-level-1.png) | ![Level 3: the result card over the gateway rules](shadow-agents/03-level-3.png) |
+
+![Level 5: building a rule at the service](shadow-agents/04-level-5.png)
